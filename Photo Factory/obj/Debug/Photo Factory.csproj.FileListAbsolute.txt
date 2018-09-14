@@ -1,0 +1,38 @@
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\Photo Factory.exe.config
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\obj\Debug\Photo_Factory.PHFactory.resources
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\obj\Debug\Photo_Factory.Properties.Resources.resources
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\obj\Debug\Photo Factory.csproj.GenerateResource.Cache
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\Photo Factory.exe
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\Photo Factory.pdb
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\obj\Debug\Photo Factory.exe
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\obj\Debug\Photo Factory.pdb
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\itextsharp.dll
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\x64\liblept1742.dll
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\x64\libtesseract3051.dll
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\x86\liblept1742.dll
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\x86\libtesseract3051.dll
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.bigrams
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.fold
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.lm
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.nn
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.size
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.cube.word-freq
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ara.traineddata
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\eng.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\fra.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\hin.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\ita.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\rus.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\aratessdata\spa.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.bigrams
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.fold
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.lm
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.nn
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.params
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.size
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.cube.word-freq
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.tesseract_cube.nn
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\tessdata\eng.traineddata
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\Tesseract.dll
+D:\scienses\life with c#\projects\Photo Factory\Photo Factory\bin\Debug\Tesseract.xml
